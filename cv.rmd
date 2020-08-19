@@ -1,0 +1,7 @@
+---
+output: 
+    html_document:
+      theme: yeti
+---
+
+trying to figure this out

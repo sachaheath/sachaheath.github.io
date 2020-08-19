@@ -1,0 +1,12 @@
+---
+output: 
+    html_document:
+      theme: yeti
+---
+
+<center> #**Sacha K. Heath**
+<center>contact information
+
+<center>![caption](./images/1 Sacha_Tyson.JPG){width=250px}
+
+learning about how to create a website on github
