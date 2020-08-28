@@ -4,4 +4,4 @@ output:
       theme: yeti
 ---
 
-you bet it's a test
+put contact info here
