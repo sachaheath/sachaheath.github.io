@@ -1,7 +1,5 @@
 output_dir: "."
 navbar:
   title: "Sacha K. Heath"
-  left:
-    - text: "Home"
-      href: index.html
+  href: index.html
     

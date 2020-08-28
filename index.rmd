@@ -4,12 +4,7 @@ output:
       theme: yeti
 ---
 
-<center> # **Sacha K. Heath**
----
-output: 
-    html_document:
-      theme: yeti
----
-
-<center> # **Sacha K. Heath**
-<center># Go to [sachaheath.com](www.sachaheath.com)
+# [1. weebly website](https://www.sachaheath.com/index.html)
+#  
+#  
+# [2. *curriculum vitae*](https://sachaheath.github.io/markdown-cv/)
