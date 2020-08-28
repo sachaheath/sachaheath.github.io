@@ -1,0 +1,54 @@
+---
+title: "tutorial notes"
+author: "Sacha Heath"
+date: "8/28/2020"
+output: 
+    html_document:
+      theme: yeti
+---
+
+*** 
+
+## [Martha Wohlfeil: Building a RMarkdown website with Git & RStudio](https://d-rug.github.io/blog/2018/Martha-Wohlfeil-building-a-website)
+
+***
+
+### references:
+### [RMarkdown cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf)
+### [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+#
+#
+### Example _site.yml
+
+Write this code in the _site.yml file:
+
+*I noticed some issues with spaces or tabs and forgot to note which was correct - check that*
+
+output_dir: "."
+navbar:
+  title: "title here"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: cv.html
+    - text: publications
+      href: publications.html
+  right:
+    - text: "contact"
+      href: contact.html
+      
+etc.
+
+
+### sync with github after making changes:
+
+knit to html
+
+on Terminal:
+
+git add *
+
+git commit -m "note"
+
+git push origin master

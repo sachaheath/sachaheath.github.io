@@ -3,8 +3,9 @@ output:
     html_document:
       theme: yeti
 ---
-
-# [1. weebly website](https://www.sachaheath.com/index.html)
+#  
+#
+# [- weebly website](https://www.sachaheath.com/index.html)
 #  
 #  
-# [2. *curriculum vitae*](https://sachaheath.github.io/markdown-cv/)
+# [- *curriculum vitae*](https://sachaheath.github.io/markdown-cv/)

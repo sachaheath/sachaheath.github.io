@@ -9,9 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Sacha Heath" />
 
 
-<title>contact.utf8</title>
+<title>tutorial notes</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -284,11 +285,48 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">tutorial notes</h1>
+<h4 class="author">Sacha Heath</h4>
+<h4 class="date">8/28/2020</h4>
 
 </div>
 
 
-<p>put contact info here</p>
+<hr />
+<div id="martha-wohlfeil-building-a-rmarkdown-website-with-git-rstudio" class="section level2">
+<h2><a href="https://d-rug.github.io/blog/2018/Martha-Wohlfeil-building-a-website">Martha Wohlfeil: Building a RMarkdown website with Git &amp; RStudio</a></h2>
+<hr />
+<div id="references" class="section level3">
+<h3>references:</h3>
+</div>
+<div id="rmarkdown-cheatsheet" class="section level3">
+<h3><a href="https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf">RMarkdown cheatsheet</a></h3>
+</div>
+<div id="r-markdown-the-definitive-guide" class="section level3">
+<h3><a href="https://bookdown.org/yihui/rmarkdown/">R Markdown: The Definitive Guide</a></h3>
+</div>
+</div>
+<div id="section" class="section level1">
+<h1></h1>
+</div>
+<div id="section-1" class="section level1">
+<h1></h1>
+<div id="example-_site.yml" class="section level3">
+<h3>Example _site.yml</h3>
+<p>Write this code in the _site.yml file:</p>
+<p><em>I noticed some issues with spaces or tabs and forgot to note which was correct - check that</em></p>
+<p>output_dir: “.” navbar: title: “title here” left: - text: “Home” href: index.html - text: “CV” href: cv.html - text: publications href: publications.html right: - text: “contact” href: contact.html</p>
+<p>etc.</p>
+</div>
+<div id="sync-with-github-after-making-changes" class="section level3">
+<h3>sync with github after making changes:</h3>
+<p>knit to html</p>
+<p>on Terminal:</p>
+<p>git add *</p>
+<p>git commit -m “note”</p>
+<p>git push origin master</p>
+</div>
+</div>
 
 
 
