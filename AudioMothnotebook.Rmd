@@ -1,0 +1,33 @@
+---
+output: 
+    html_document:
+      theme: yeti
+---
+# Notes on AudioMoth deployment for St. Louis Urban Wildlife project
+
+**Security**
+
+AudioMoth LED can be turned off to avoid unwanted protection in human dominated areas: [Hill et al. 2019](https://www.sciencedirect.com/science/article/pii/S2468067219300306?via%3Dihub).
+
+SKH started a [forum thread](https://www.openacousticdevices.info/support/enclosures/security-for-injection-molded-waterproof-case) on OpenAcoustic devices.
+
+This person [developed a case that would allow for better security](https://www.openacousticdevices.info/support/enclosures/possible-case-for-audiomoth) - see final design [here](https://sites.google.com/view/audiomoth/housings-or-cases/samson-case)
+
+[Here](https://www.openacousticdevices.info/support/enclosures/possible-case-for-audiomoth) is another enclosure design that allows for a small lock cable to be used for security.; but it did not perform very well compared to ziplock bags.
+
+Arguments for no additional security measures needed for AudioMoths due to their small inconspicuous size:
+
+[Hill et al. 2018](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12955) mentions theft on one occasion and portrays the AudioMoth as a device better used in urban/human dominated environments than traditional devices because of its small size. - argument for no additional security needed.
+
+[Farina 2018](https://www.mdpi.com/2227-7390/7/1/21/pdf): "*and new devices (e.g., Audio Moth) tested as a further solution to deploy recorders in unsafe places where human vandalism or animal damage discourage the use of more expensive devices.*"
+
+Comments from most users seems to be that they are not concerned about theft because of low cost. For example [here](https://www.wiscassetnewspaper.com/article/if-owl-hoots-forest/135954), [here](https://www.biomehealthproject.com/technology), [this thread](https://www.openacousticdevices.info/support/device-support/recording-range), citations provided above, etc.
+
+
+**Enclosures**
+
+SKH had some issues with her device enclosures during deployment in June 2020; however AudioMoth quickly replaced both the latches and the membranes and are working on updating the latch design. See forum thread [here about the enclosure latches](https://www.openacousticdevices.info/support/enclosures/latches-broke-on-new-cases) and [here about the membrane](https://www.openacousticdevices.info/support/enclosures/membrane-on-official-ipx7-waterproof-case-failed).
+
+[alternative enclosure summary](https://www.openacousticdevices.info/support/enclosures/summary-of-enclosures-to-date)
+
+[New 3D printed enclosure design from AudioMoth Vault](https://www.openacousticdevices.info/support/enclosures/audiomoth-vault-released-a-3d-printed-magnetic-enclosure)
