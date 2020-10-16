@@ -3,6 +3,6 @@ navbar:
   title: "Sacha K. Heath, Living Earth Collaborative Postdoctoral Fellow"
   href: index.html
   right:
-    - text: "Notebook"
-      href: notebook.html
+    - text: "AudioMoth_Notebook"
+      href: AudioMothnotebook.html
       
