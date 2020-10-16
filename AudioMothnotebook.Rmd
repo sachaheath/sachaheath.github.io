@@ -1,7 +1,8 @@
 ---
-output: 
-    html_document:
-      theme: yeti
+output:
+  html_document:
+    theme: yeti
+  pdf_document: default
 ---
 # Notes on AudioMoth deployment for St. Louis Urban Wildlife project
 
