@@ -2,7 +2,7 @@ output_dir: "."
 navbar:
   title: "Sacha K. Heath, Living Earth Collaborative Postdoctoral Fellow"
   href: index.html
-  right:
-    - text: "AudioMoth_Notebook"
+  left:
+    - text: "AudioMoth Notebook"
       href: AudioMothnotebook.html
-      
+ 
