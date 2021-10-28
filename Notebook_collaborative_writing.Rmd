@@ -1,0 +1,24 @@
+---
+output:
+  html_document:
+    theme: yeti
+  pdf_document: default
+---
+# Notes on how to facilitat collaborative writing projects
+
+**A process shared to me by colleague Adam Smith, at the Missouri Botanical Garden:**
+
+After we have a team settled:
+
+1. develop an outline of a paper and decide on a target journal. If possible it would be nice to meet online at least once or twice to discuss the outline.  
+
+2. Volunteer for sections of the paper and on our own time start doing the reading necessary to write those sections.  
+
+3. Sometime in early 2021 [at least 3 months from now] we’d set aside a 1-week period of time, during which everyone would commit to intensive writing of their section.  I foresee sections being short or being covered by more than one person, so it shouldn’t be too onerous. 
+
+4. Finally, I or someone else would pull it all together into a common voice, get feedback, insert references, etc. Then submit!  
+
+
+[**Group Writing Handout; The Writing Center, University of NC at Chapel Hill**](https://writingcenter.unc.edu/tips-and-tools/group-writing/)
+
+Great handout for steps of the writing process.
